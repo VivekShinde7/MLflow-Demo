@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/MLflow-Demo/mlruns/0/c39995056f174a8193b514d37eabf60b/artifacts
+end_time: 1728038508590
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c39995056f174a8193b514d37eabf60b
+run_name: wise-robin-1
+run_uuid: c39995056f174a8193b514d37eabf60b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728038498240
+status: 4
+tags: []
+user_id: vivus

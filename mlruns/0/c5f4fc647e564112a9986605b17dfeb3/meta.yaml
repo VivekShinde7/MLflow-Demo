@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/MLflow-Demo/mlruns/0/c5f4fc647e564112a9986605b17dfeb3/artifacts
+end_time: 1728038243998
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c5f4fc647e564112a9986605b17dfeb3
+run_name: colorful-crane-704
+run_uuid: c5f4fc647e564112a9986605b17dfeb3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728038234858
+status: 4
+tags: []
+user_id: vivus

@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/MLflow-Demo/mlruns/0/2d634def632f4d33944244f8b203ae3a/artifacts
+end_time: 1728038816396
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2d634def632f4d33944244f8b203ae3a
+run_name: ambitious-conch-407
+run_uuid: 2d634def632f4d33944244f8b203ae3a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728038796526
+status: 3
+tags: []
+user_id: vivus
